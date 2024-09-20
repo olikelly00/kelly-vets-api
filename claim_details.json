@@ -1,0 +1,54 @@
+{
+    "claims": [
+      {
+        "claim_id": 501,
+        "policy_id": 1001,
+        "pet_id": 1,
+        "species": "Dog",
+        "claim_date": "2023-06-20",
+        "claim_type": "Vet Treatment",
+        "claim_amount": 250.75,
+        "status": "Approved"
+      },
+      {
+        "claim_id": 502,
+        "policy_id": 1002,
+        "pet_id": 2,
+        "species": "Cat",
+        "claim_date": "2023-07-10",
+        "claim_type": "Surgery",
+        "claim_amount": 1800.00,
+        "status": "Pending"
+      },
+      {
+        "claim_id": 503,
+        "policy_id": 1003,
+        "pet_id": 3,
+        "species": "Dog",
+        "claim_date": "2023-08-01",
+        "claim_type": "Vaccination",
+        "claim_amount": 75.00,
+        "status": "Approved"
+      },
+      {
+        "claim_id": 504,
+        "policy_id": 1004,
+        "pet_id": 4,
+        "species": "Dog",
+        "claim_date": "2023-07-22",
+        "claim_type": "Routine Checkup",
+        "claim_amount": 100.00,
+        "status": "Approved"
+      },
+      {
+        "claim_id": 505,
+        "policy_id": 1005,
+        "pet_id": 5,
+        "species": "Dog",
+        "claim_date": "2023-06-18",
+        "claim_type": "Medication",
+        "claim_amount": 120.50,
+        "status": "Denied"
+      }
+    ]
+  }
